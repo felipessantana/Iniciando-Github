@@ -1,2 +1,3 @@
 # Iniciando Github
- Primeiro repositorio de aprendizado
+ Primeiro repositorio de aprendizado do Git e Github
+ 
